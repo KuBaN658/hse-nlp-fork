@@ -1,0 +1,6 @@
+seminars/data/
+*/.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/__pycache__
+homeworks/hw1/ru_lem.csv
+seminars/model.pt
